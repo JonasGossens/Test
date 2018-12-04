@@ -15,6 +15,7 @@ module.exports = function resolveAbsoluteImport(importName) {
         GridCalendar: 'react-chayns-gridcalendar/component/GridCalendar.js',
         Icon: 'react-chayns-icon/component/Icon.js',
         Input: 'react-chayns-input/component/Input.js',
+        MessageBubble: 'react-chayns-messagebubble/component/MessageBubble.js',
         ModeSwitch: 'react-chayns-modeswitch/component/ModeSwitch.js',
         Mode: 'react-chayns-modeswitch/component/Mode.js',
         OrientationHelper: 'utils/OrientationHelper.js',

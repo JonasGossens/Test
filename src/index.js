@@ -19,6 +19,7 @@ import GridCalendar from './react-chayns-gridcalendar/component/GridCalendar';
 import Icon from './react-chayns-icon/component/Icon';
 import Input from './react-chayns-input/component/Input';
 
+import MessageBubble from './react-chayns-messagebubble/component/MessageBubble';
 import ModeSwitch from './react-chayns-modeswitch/component/ModeSwitch';
 import Mode from './react-chayns-modeswitch/component/Mode';
 
@@ -63,6 +64,7 @@ export {
     GridCalendar,
     Icon,
     Input,
+    MessageBubble,
     ModeSwitch,
     Mode,
     OrientationHelper,
