@@ -18,6 +18,7 @@ module.exports = function resolveAbsoluteImport(importName) {
         MessageBubble: 'react-chayns-messagebubble/component/MessageBubble.js',
         ModeSwitch: 'react-chayns-modeswitch/component/ModeSwitch.js',
         Mode: 'react-chayns-modeswitch/component/Mode.js',
+        NewMessageBox: 'react-chayns-newmessagebox/component/NewMessageBox.js',
         OrientationHelper: 'utils/OrientationHelper.js',
         PersonFinder: 'react-chayns-personfinder/component/PersonFinder.js',
         RadioButton: 'react-chayns-radiobutton/component/RadioButton.js',

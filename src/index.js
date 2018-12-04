@@ -23,6 +23,8 @@ import MessageBubble from './react-chayns-messagebubble/component/MessageBubble'
 import ModeSwitch from './react-chayns-modeswitch/component/ModeSwitch';
 import Mode from './react-chayns-modeswitch/component/Mode';
 
+import NewMessageBox from './react-chayns-newmessagebox/component/NewMessageBox';
+
 import PersonFinder from './react-chayns-personfinder/component/PersonFinder';
 
 import RadioButton from './react-chayns-radiobutton/component/RadioButton';
@@ -67,6 +69,7 @@ export {
     MessageBubble,
     ModeSwitch,
     Mode,
+    NewMessageBox,
     OrientationHelper,
     PersonFinder,
     RadioButton,
